@@ -1,4 +1,7 @@
 # models.py
+# MIKAEL RODRIGUES NAVARROS
+# SESI UNIVERSITARIO 
+
 from datetime import datetime
 from sqlalchemy import (
     Column, Integer, String, ForeignKey, DateTime, Numeric, CheckConstraint
